@@ -2094,3 +2094,364 @@
 2025-01-30 10:45:03,170 - INFO - Atualizando gráfico para intervalo: 5m
 2025-01-30 10:45:03,171 - INFO - Buscando dados para intervalo: 5m
 2025-01-30 10:45:03,528 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 10:46:04,160 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:46:04,162 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:46:04,812 - INFO - Tempo de resposta da API: 0.65 segundos
+2025-01-30 10:47:04,383 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:47:04,387 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:47:04,764 - INFO - Tempo de resposta da API: 0.38 segundos
+2025-01-30 10:48:04,138 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:48:04,145 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:48:04,526 - INFO - Tempo de resposta da API: 0.38 segundos
+2025-01-30 10:49:04,127 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:49:04,127 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:49:04,574 - INFO - Tempo de resposta da API: 0.45 segundos
+2025-01-30 10:50:04,127 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:50:04,127 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:50:04,504 - INFO - Tempo de resposta da API: 0.38 segundos
+2025-01-30 10:51:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:51:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:51:04,464 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 10:52:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:52:04,120 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:52:04,479 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 10:53:04,118 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:53:04,118 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:53:04,482 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 10:54:04,133 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:54:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:54:04,500 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 10:55:04,130 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:55:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:55:04,482 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 10:56:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:56:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:56:04,473 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 10:57:04,133 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:57:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:57:04,478 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 10:58:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:58:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:58:04,491 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 10:59:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 10:59:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 10:59:04,474 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:00:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:00:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:00:04,479 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:01:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:01:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:01:04,565 - INFO - Tempo de resposta da API: 0.44 segundos
+2025-01-30 11:02:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:02:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:02:04,470 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:03:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:03:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:03:04,576 - INFO - Tempo de resposta da API: 0.46 segundos
+2025-01-30 11:04:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:04:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:04:04,466 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 11:05:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:05:04,134 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:05:04,491 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:06:04,133 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:06:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:06:05,030 - INFO - Tempo de resposta da API: 0.90 segundos
+2025-01-30 11:07:04,131 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:07:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:07:04,485 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:08:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:08:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:08:04,557 - INFO - Tempo de resposta da API: 0.43 segundos
+2025-01-30 11:09:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:09:04,127 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:09:04,549 - INFO - Tempo de resposta da API: 0.42 segundos
+2025-01-30 11:10:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:10:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:10:04,712 - INFO - Tempo de resposta da API: 0.59 segundos
+2025-01-30 11:11:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:11:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:11:04,483 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:12:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:12:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:12:04,466 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:13:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:13:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:13:04,480 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:14:04,119 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:14:04,119 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:14:04,469 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:15:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:15:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:15:04,482 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:16:04,130 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:16:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:16:04,479 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:17:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:17:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:17:04,481 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:18:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:18:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:18:04,479 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:19:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:19:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:19:04,482 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:20:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:20:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:20:04,577 - INFO - Tempo de resposta da API: 0.45 segundos
+2025-01-30 11:21:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:21:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:21:04,588 - INFO - Tempo de resposta da API: 0.46 segundos
+2025-01-30 11:22:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:22:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:22:04,471 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:23:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:23:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:23:04,472 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:24:04,119 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:24:04,120 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:24:04,474 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:25:04,133 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:25:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:25:04,504 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 11:26:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:26:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:26:04,477 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 11:27:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:27:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:27:04,481 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:28:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:28:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:28:04,473 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 11:29:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:29:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:29:04,477 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:30:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:30:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:30:04,497 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 11:31:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:31:04,123 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:31:04,471 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:32:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:32:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:32:04,479 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:33:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:33:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:33:04,468 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:34:04,119 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:34:04,119 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:34:04,569 - INFO - Tempo de resposta da API: 0.45 segundos
+2025-01-30 11:35:04,135 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:35:04,135 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:35:04,601 - INFO - Tempo de resposta da API: 0.47 segundos
+2025-01-30 11:36:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:36:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:36:04,480 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:37:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:37:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:37:04,481 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:38:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:38:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:38:04,481 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:39:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:39:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:39:04,570 - INFO - Tempo de resposta da API: 0.44 segundos
+2025-01-30 11:40:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:40:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:40:04,474 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:41:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:41:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:41:04,976 - INFO - Tempo de resposta da API: 0.85 segundos
+2025-01-30 11:42:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:42:04,123 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:42:04,467 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 11:43:04,119 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:43:04,120 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:43:04,568 - INFO - Tempo de resposta da API: 0.45 segundos
+2025-01-30 11:44:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:44:04,134 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:44:04,472 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 11:45:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:45:04,134 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:45:04,483 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:46:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:46:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:46:04,486 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:47:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:47:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:47:04,492 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:48:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:48:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:48:04,482 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:49:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:49:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:49:04,474 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:50:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:50:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:50:04,485 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 11:51:04,130 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:51:04,131 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:51:04,497 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 11:52:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:52:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:52:04,475 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:53:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:53:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:53:04,606 - INFO - Tempo de resposta da API: 0.48 segundos
+2025-01-30 11:54:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:54:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:54:04,482 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:55:04,144 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:55:04,144 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:55:04,610 - INFO - Tempo de resposta da API: 0.47 segundos
+2025-01-30 11:56:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:56:04,127 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:56:04,472 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 11:57:04,135 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:57:04,135 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:57:04,604 - INFO - Tempo de resposta da API: 0.47 segundos
+2025-01-30 11:58:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:58:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:58:04,511 - INFO - Tempo de resposta da API: 0.39 segundos
+2025-01-30 11:59:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 11:59:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 11:59:04,596 - INFO - Tempo de resposta da API: 0.47 segundos
+2025-01-30 12:00:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:00:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:00:04,459 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 12:01:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:01:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:01:04,475 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:02:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:02:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:02:04,482 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:03:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:03:04,135 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:03:04,493 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:04:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:04:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:04:04,477 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:05:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:05:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:05:04,489 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:06:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:06:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:06:04,602 - INFO - Tempo de resposta da API: 0.47 segundos
+2025-01-30 12:07:04,126 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:07:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:07:04,601 - INFO - Tempo de resposta da API: 0.48 segundos
+2025-01-30 12:08:04,129 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:08:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:08:04,505 - INFO - Tempo de resposta da API: 0.38 segundos
+2025-01-30 12:09:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:09:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:09:04,473 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:10:04,130 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:10:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:10:04,478 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:11:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:11:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:11:04,475 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:12:04,133 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:12:04,134 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:12:04,497 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:13:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:13:04,135 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:13:04,592 - INFO - Tempo de resposta da API: 0.46 segundos
+2025-01-30 12:14:04,131 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:14:04,131 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:14:04,511 - INFO - Tempo de resposta da API: 0.38 segundos
+2025-01-30 12:15:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:15:04,120 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:15:04,492 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 12:16:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:16:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:16:04,492 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:17:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:17:04,123 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:17:04,601 - INFO - Tempo de resposta da API: 0.48 segundos
+2025-01-30 12:18:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:18:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:18:04,474 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:19:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:19:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:19:04,477 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:20:04,134 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:20:04,135 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:20:04,484 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:21:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:21:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:21:04,469 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:22:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:22:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:22:04,470 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:23:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:23:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:23:04,576 - INFO - Tempo de resposta da API: 0.45 segundos
+2025-01-30 12:24:04,131 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:24:04,131 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:24:04,481 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:25:04,123 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:25:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:25:04,580 - INFO - Tempo de resposta da API: 0.46 segundos
+2025-01-30 12:26:04,130 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:26:04,130 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:26:04,490 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:27:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:27:04,122 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:27:04,467 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 12:28:04,121 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:28:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:28:04,470 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:29:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:29:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:29:04,484 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:30:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:30:04,132 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:30:04,484 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:31:04,128 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:31:04,129 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:31:04,474 - INFO - Tempo de resposta da API: 0.34 segundos
+2025-01-30 12:32:04,122 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:32:04,123 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:32:04,515 - INFO - Tempo de resposta da API: 0.39 segundos
+2025-01-30 12:33:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:33:04,125 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:33:04,473 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:34:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:34:04,120 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:34:04,489 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 12:35:04,127 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:35:04,128 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:35:04,477 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:36:04,131 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:36:04,131 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:36:04,477 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:37:04,125 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:37:04,126 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:37:04,475 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:38:04,124 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:38:04,124 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:38:04,482 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:39:04,120 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:39:04,121 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:39:04,481 - INFO - Tempo de resposta da API: 0.36 segundos
+2025-01-30 12:40:04,174 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:40:04,179 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:40:04,530 - INFO - Tempo de resposta da API: 0.35 segundos
+2025-01-30 12:41:04,132 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:41:04,133 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:41:04,503 - INFO - Tempo de resposta da API: 0.37 segundos
+2025-01-30 12:41:55,155 - INFO - Atualizando gráfico para intervalo: 5m
+2025-01-30 12:41:55,155 - INFO - Buscando dados para intervalo: 5m
+2025-01-30 12:41:55,496 - ERROR - Erro ao buscar dados da API: 401 Client Error: Unauthorized for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1&interval=minutely
+Traceback (most recent call last):
+  File "C:\Users\brangst\outrasVelas\app.py", line 55, in fetch_data
+    response.raise_for_status()
+  File "C:\Users\brangst\outrasVelas\venv\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1&interval=minutely
+2025-01-30 13:16:47,530 - INFO - Dash is running on http://0.0.0.0:8050/
+
+2025-01-30 13:26:47,246 - INFO - Dash is running on http://0.0.0.0:8050/
+

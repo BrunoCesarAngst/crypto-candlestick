@@ -5,8 +5,13 @@ import plotly.graph_objects as go
 
 def get_binance_data(symbol, interval, limit=100):
     url = f"https://api.binance.com/api/v3/klines?symbol={symbol}&interval={interval}&limit={limit}"
-    response = requests.get(url)
-    data = response.json()
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+    except requests.exceptions.RequestException as e:
+        st.error(f"Erro ao buscar dados da Binance: {e}")
+        return pd.DataFrame()
 
     df = pd.DataFrame(data, columns=["timestamp", "open", "high", "low", "close", "volume",
                                      "close_time", "quote_asset_volume", "trades",
@@ -17,6 +22,9 @@ def get_binance_data(symbol, interval, limit=100):
     return df
 
 def calculate_indicators(df):
+    if df.empty:
+        return df
+
     df["SMA50"] = df["close"].rolling(window=50).mean()
     df["EMA20"] = df["close"].ewm(span=20, adjust=False).mean()
     df["BB_Upper"] = df["SMA50"] + (df["close"].rolling(window=50).std() * 2)
@@ -24,6 +32,9 @@ def calculate_indicators(df):
     return df
 
 def check_signals(df):
+    if df.empty or df.shape[0] < 1:
+        return "⚪ Nenhum dado disponível"
+
     latest = df.iloc[-1]
     if latest["close"] < latest["BB_Lower"]:
         return "🔵 Sinal de COMPRA"
@@ -32,6 +43,10 @@ def check_signals(df):
     return "⚪ Nenhum sinal"
 
 def plot_chart(df, symbol):
+    if df.empty:
+        st.warning("Nenhum dado disponível para exibir o gráfico.")
+        return
+
     fig = go.Figure()
     fig.add_trace(go.Candlestick(x=df["timestamp"], open=df["open"], high=df["high"],
                                  low=df["low"], close=df["close"], name="Candlesticks"))
@@ -41,9 +56,10 @@ def plot_chart(df, symbol):
     fig.add_trace(go.Scatter(x=df["timestamp"], y=df["BB_Lower"], mode='lines', name='BB Lower', line=dict(color='red', dash='dot')))
 
     last_signal = check_signals(df)
-    fig.add_trace(go.Scatter(x=[df.iloc[-1]["timestamp"]], y=[df.iloc[-1]["close"]], mode='markers+text',
-                             name=last_signal, text=last_signal, textposition="top right",
-                             marker=dict(color='green' if 'COMPRA' in last_signal else 'red')))
+    if last_signal != "⚪ Nenhum dado disponível":
+        fig.add_trace(go.Scatter(x=[df.iloc[-1]["timestamp"]], y=[df.iloc[-1]["close"]], mode='markers+text',
+                                 name=last_signal, text=last_signal, textposition="top right",
+                                 marker=dict(color='green' if 'COMPRA' in last_signal else 'red')))
 
     fig.update_layout(title=f"Gráfico - {symbol}", xaxis_title="Tempo", yaxis_title="Preço", height=600)
     st.plotly_chart(fig)
